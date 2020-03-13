@@ -1,0 +1,20 @@
+﻿@model Project_KienTrucMVC.Models.SinhVien
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<form action="/Home/Index" method="post">
+    <input type="text" name="txtSVID" value=" " />
+    <input type="text" name="txtSVTen" value=" " />
+    <input type="text" name="txtSVDiaChi" value=" " />
+    <input type="submit" name="btnSubmit" value="Submit" />
+</form>
+
+@if (Model != null)
+{
+    <h3>@Model.SVID</h3>
+    <h4>@Model.SVTen</h4>
+    <h5>@Model.SVDiaChi</h5>
+    
+}
