@@ -1,0 +1,10 @@
+D:\Learning\ProjectToGitHub\ASP.NET MVC5\ASP.NET-MVC5\17CN111\ShopOnline\Models\bin\Debug\Models.dll.config
+D:\Learning\ProjectToGitHub\ASP.NET MVC5\ASP.NET-MVC5\17CN111\ShopOnline\Models\bin\Debug\Models.dll
+D:\Learning\ProjectToGitHub\ASP.NET MVC5\ASP.NET-MVC5\17CN111\ShopOnline\Models\bin\Debug\Models.pdb
+D:\Learning\ProjectToGitHub\ASP.NET MVC5\ASP.NET-MVC5\17CN111\ShopOnline\Models\bin\Debug\EntityFramework.dll
+D:\Learning\ProjectToGitHub\ASP.NET MVC5\ASP.NET-MVC5\17CN111\ShopOnline\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Learning\ProjectToGitHub\ASP.NET MVC5\ASP.NET-MVC5\17CN111\ShopOnline\Models\bin\Debug\EntityFramework.xml
+D:\Learning\ProjectToGitHub\ASP.NET MVC5\ASP.NET-MVC5\17CN111\ShopOnline\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Learning\ProjectToGitHub\ASP.NET MVC5\ASP.NET-MVC5\17CN111\ShopOnline\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\Learning\ProjectToGitHub\ASP.NET MVC5\ASP.NET-MVC5\17CN111\ShopOnline\Models\obj\Debug\Models.dll
+D:\Learning\ProjectToGitHub\ASP.NET MVC5\ASP.NET-MVC5\17CN111\ShopOnline\Models\obj\Debug\Models.pdb
